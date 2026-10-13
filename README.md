@@ -4,8 +4,13 @@
 
 Bandicam · MoggyDay · 8.2 · v8.2
 
-# Bandicam 8.2 “Pro for Windows: screen and game capture” [v8.2]
+# Bandicam 8.2 “for Windows: screen and game capture” [v8.2]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/bandicam"><img src="docs/media/shot-1.jpg" alt="record" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/bandicam"><img src="docs/media/shot-2.jpg" alt="about" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/bandicam"><img src="docs/media/shot-3.jpg" alt="options" width="280"></a>
+</p>
 <p><img src="docs/media/logos/bandicam.svg" alt="Bandicam" height="48"></p>
 
 MoggyDay keeps one stable URL for Bandicam: EN / RU. Screen and game capture. 34 MB, Windows x64.
