@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/bandicam-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/bandicam-windows/?lang=en) · [Русский](https://soldermofitting.github.io/bandicam-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/bandicam"><img src="docs/media/preview.jpg" alt="Bandicam preview" width="640"></a>
+</p>
+
 Bandicam · MoggyDay · 8.2 · v8.2
 
 # Bandicam 8.2 “for Windows: screen and game capture” [v8.2]
